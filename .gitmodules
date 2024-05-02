@@ -4,3 +4,18 @@
 [submodule "week3_lab2_softwarearchitecture"]
 	path = week3_lab2_softwarearchitecture
 	url = https://github.com/nguyenhieu1435/week3_lab2_softwarearchitecture.git
+[submodule "Exercise3_SoftwareArchitecture"]
+	path = Exercise3_SoftwareArchitecture
+	url = https://github.com/nguyenhieu1435/Exercise3_SoftwareArchitecture.git
+[submodule "LearningAboutQueueTopicActiveMQ_InJava"]
+	path = LearningAboutQueueTopicActiveMQ_InJava
+	url = https://github.com/nguyenhieu1435/LearningAboutQueueTopicActiveMQ_InJava.git
+[submodule "MakeAnOrderWithActiveMQ"]
+	path = MakeAnOrderWithActiveMQ
+	url = https://github.com/nguyenhieu1435/MakeAnOrderWithActiveMQ.git
+[submodule "MicroKernel_Dictionary_SpringWeb"]
+	path = MicroKernel_Dictionary_SpringWeb
+	url = https://github.com/nguyenhieu1435/MicroKernel_Dictionary_SpringWeb.git
+[submodule "MobilePhoneRecycle_ServiceBasedArch"]
+	path = MobilePhoneRecycle_ServiceBasedArch
+	url = https://github.com/nguyenhieu1435/MobilePhoneRecycle_ServiceBasedArch.git
